@@ -1,4 +1,4 @@
-# NPK measuring Device
+# NPK Measuring Device
 Designing of a device for accurately measuring NPK, Temperature and Humidity of the soil
 
 The soil NPK sensor is suitable for detecting the content of nitrogen, phosphorus, and potassium in
